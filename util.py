@@ -1,13 +1,3 @@
-# Natural Language Toolkit: Chatbot Utilities
-#
-# Copyright (C) 2001-2023 NLTK Project
-# Authors: Steven Bird <stevenbird1@gmail.com>
-# URL: <https://www.nltk.org/>
-# For license information, see LICENSE.TXT
-
-# Based on an Eliza implementation by Joe Strout <joe@strout.net>,
-# Jeff Epler <jepler@inetnebr.com> and Jez Higgins <jez@jezuk.co.uk>.
-
 import random
 import re
 
